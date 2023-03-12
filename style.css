@@ -18,3 +18,43 @@ body{
     display: block;
     border-radius: 200%;
 }
+.icon-contatos{
+  color:rgb(5, 34, 4);
+}
+
+.icon-ferramentas{
+  color:rgb(29, 66, 71);
+  font-size: 35px;
+  
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+  font-weight: bold;
+  font-size: 14px;
+  text-align: left;
+}
+
+th {
+  background-color: #f4fffe;
+  border: none;
+  padding: 8px;
+  text-transform: uppercase;
+  font-weight: bold;
+  
+}
+
+td {
+  border: 1px solid #bccbd4;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #fdfdfd;
+}
+
+.star-icon {
+  color: #00380c;
+  margin-right: 2px;
+}
