@@ -15,8 +15,19 @@ body{
 .foto img{  
     width: 190px;
     height: 150px;
-    display: block;
     border-radius: 200%;
+    float: left;
+    margin-right: 10px;
+    margin-bottom: 200px;
+    
+}
+
+.cabeçalho{
+  width: 100%;
+  overflow: hidden;
+}
+.cabeçalho p{
+  text-align: left;
 }
 .icon-contatos{
   color:rgb(5, 34, 4);
